@@ -1,0 +1,15 @@
+{
+    "name": "My quiz",
+    "questions": [
+        {
+            "question": "A",
+            "answer": "a",
+            "question ID": "1"
+        },
+        {
+            "question": "B",
+            "answer": "b",
+            "question ID": "2"
+        }
+    ]
+}
